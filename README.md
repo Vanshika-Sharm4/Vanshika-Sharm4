@@ -76,4 +76,4 @@
 - ✉ Email: vanshik4@ualberta.ca
 - 🌍 Portfolio: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io)
 
-*Open to internships, collabs, and interesting AI/ML projects — always down to chat!*
+*Open to collabs, and interesting AI/ML projects*
