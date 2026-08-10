@@ -11,7 +11,7 @@
 
 ## 👤 About Me
 
-- 🎓 Computer Science student specializing in Artifical Intelligence @ **University of Alberta**
+- 🎓 Computer Science student specializing in Artifical Intelligence @ **University of Alberta** (2024 - 2028)
 - 🌍 Focused on **AI/ML and data science** — building models and tools that solve practical problems
 - 🔗 Personal site: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io)
 - ✦ Always exploring: applied ML, cloud deployment, and full-stack development to bring ideas to life
