@@ -1,7 +1,7 @@
 # Hi there, I'm Vanshika Sharma ✦
 
 <p align="left">
-  <a href="https://vanshika-sharm4.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-3D7BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://vanshika-sharm4.github.io/-Vanshika-Sharm4.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-3D7BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vanshikasharm4" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-006EA8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vanshik4@ualberta.ca"><img src="https://img.shields.io/badge/EMAIL-C24232?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Vanshika-Sharm4" target="_blank"><img src="https://img.shields.io/badge/GITHUB-161515?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 - 🎓 Computer Science student specializing in Artifical Intelligence @ **University of Alberta** (2024 - 2028)
 - 🌍 Focused on **AI/ML and data science** — building models and tools that solve practical problems
-- 🔗 Personal site: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io)
+- 🔗 Personal site: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io/-Vanshika-Sharm4.github.io/)
 - ✦ Always exploring: applied ML, cloud deployment, and full-stack development to bring ideas to life
 
 ---
@@ -74,6 +74,6 @@
 
 - 💼 LinkedIn: [in/vanshikasharm4](https://www.linkedin.com/in/vanshikasharm4)
 - ✉ Email: vanshika627@icloud.com
-- 🌍 Portfolio: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io)
+- 🌍 Portfolio: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io/-Vanshika-Sharm4.github.io/)
 
 *Open to internships, collabs, and interesting AI/ML projects*
