@@ -1,69 +1,79 @@
-<h1 align="center">Hi 👋, I'm Vanshika Sharma</h1>
-<h3 align="center">CS AI Undergrad @ University of Alberta | Building intelligent, human-centered systems</h3>
+# Hi there, I'm Vanshika Sharma ✦
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vanshikasharm4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vanshik4@ualberta.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vanshika-sharm4.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="left">
+  <a href="https://vanshika-sharm4.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vanshikasharm4" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vanshik4@ualberta.ca"><img src="https://img.shields.io/badge/EMAIL-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Vanshika-Sharm4" target="_blank"><img src="https://img.shields.io/badge/GITHUB-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔭 About Me
+## 👤 About Me
 
-- 🎓 Studying **Computer Science** at the **University of Alberta**, Edmonton, AB
-- 🤖 Interested in **AI/ML**, applied data science, and building tools that make everyday life more accessible
-- 🧠 Currently exploring how ML can power practical, real-world applications — from accessibility tech to financial analytics
-- 🌱 Always learning: cloud deployment, applied ML pipelines, and full-stack engineering to ship ideas end-to-end
+- 🎓 Computer Science AI student @ **University of Alberta**, Edmonton, AB
+- 🌍 Focused on **AI/ML and data science**, building models and tools that solve practical problems
+- 🔗 Personal site: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io)
+- ✦ Always exploring: applied ML, cloud deployment, and full-stack development to bring ideas to life
 
-### 🚀 Featured Projects
+---
 
-| Project | Description | Stack |
-|---|---|---|
-| [**StudyFlow AI**](https://github.com/Vanshika-Sharm4/studyflow-ai-qwencloud) | An AI-powered study assistant leveraging cloud-based LLMs to help students learn more efficiently | HTML, AI/LLM APIs |
-| [**StockSight**](https://github.com/Vanshika-Sharm4/StockSight) | Cloud-native stock analytics dashboard with data visualization and trend analysis | React, FastAPI, AWS, Docker, TypeScript |
-| [**Portfolio**](https://vanshika-sharm4.github.io) | My personal portfolio site showcasing projects and experience | HTML |
+## 🛠 Tech Stack
 
-### 🛠️ Tech Stack
-
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-6C63FF?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-6C63FF?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-6C63FF?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-6C63FF?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-6C63FF?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-6C63FF?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6C63FF?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-6C63FF?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-6C63FF?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-6C63FF?style=flat-square&logo=r&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika-Sharm4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika-Sharm4&theme=tokyonight&hide_border=true" width="48%" />
+**Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-6C63FF?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-6C63FF?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-6C63FF?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6C63FF?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-6C63FF?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20SDK-6C63FF?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-### 📫 Let's Connect
+**Developer Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-6C63FF?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-6C63FF?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-6C63FF?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alibaba%20Cloud-6C63FF?style=flat-square&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-6C63FF?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-6C63FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-6C63FF?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+**Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-6C63FF?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-6C63FF?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-6C63FF?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-6C63FF?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-6C63FF?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-6C63FF?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIME-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SHAP-6C63FF?style=flat-square" />
+</p>
+
+---
+
+## ✦ Let's Connect
 
 - 💼 LinkedIn: [in/vanshikasharm4](https://www.linkedin.com/in/vanshikasharm4)
-- 📧 Email: vanshika627@icloud.com
-- 🌐 Portfolio: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io)
+- ✉ Email: vanshik4@ualberta.ca
+- 🌍 Portfolio: [vanshika-sharm4.github.io](https://vanshika-sharm4.github.io)
 
-<p align="center"><i>Open to internships, collabs, and interesting AI/ML projects — always down to chat!</i></p>
-
-<!--
-**Vanshika-Sharm4/Vanshika-Sharm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to internships, collabs, and interesting AI/ML projects — always down to chat!*
